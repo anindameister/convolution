@@ -1,0 +1,2 @@
+https://github.com/shenweichen/Coursera/blob/master/Specialization_Deep_Learning_deeplearning.ai/Course4_Convolutional%20Neural%20Networks/week1_Foundations%20of%20Convolutional%20Neural%20Networks/The%20basics%20of%20ConvNets.pdf
+
