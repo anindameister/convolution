@@ -1,0 +1,4 @@
+=VLOOKUP([@Column5],Sheet1!A2:B81,2,FALSE)
+https://www.youtube.com/watch?v=D6IEJtfyXmM
+
+https://www.youtube.com/watch?v=nC7Bzb35e68
